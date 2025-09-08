@@ -57,3 +57,18 @@ See the [CHANGELOG.md](CHANGELOG.md) for version history.
 
 ## 📖 Wiki
 For a full breakdown of usage, see the [Wiki](../../wiki).  
+
+---
+
+## 👤 Author
+Created by **Klickk / Klickk757 / ZyraSMP**
+
+---
+
+## 📄 License
+This project is **free to use** on any Minecraft server.  
+However, the **source code is All Rights Reserved**:  
+- You may **not** redistribute, modify, or sell the source code or compiled JAR.  
+- You may freely run the plugin on personal or commercial servers.  
+
+See the [LICENSE](LICENSE) file for full terms.
