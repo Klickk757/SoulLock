@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/soullock.png" alt="SoulLock Logo" width="200"/>
+  <img src="doc/soullockv2.png" alt="SoulLock Logo" width="200"/>
 </p>
 
 <h1 align="center">🪄 SoulLock v1.2.1</h1>
