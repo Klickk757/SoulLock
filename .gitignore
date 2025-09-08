@@ -1,0 +1,8 @@
+# Maven build output
+target/
+*.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
