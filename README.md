@@ -1,9 +1,13 @@
-# 🪄 SoulLock v1.2.1
+<p align="center">
+  <img src="docs/soullock.png" alt="SoulLock Logo" width="200"/>
+</p>
 
-**SoulLock** is a [Paper](https://papermc.io/) plugin for Minecraft 1.21.4 that lets you **bind tools and weapons to a specific player**.  
-Once an item is Soul Bound, only the rightful owner can use, pick up, or retrieve it.  
+<h1 align="center">🪄 SoulLock v1.2.1</h1>
 
-This makes SoulLock ideal for **unique rewards, quest items, or server gear** where you don’t want trading or stealing.
+<p align="center">
+  A Paper plugin that binds tools & weapons to a player so only the rightful owner can use them.
+</p>
+
 
 ---
 
