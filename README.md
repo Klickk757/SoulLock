@@ -71,4 +71,4 @@ However, the **source code is All Rights Reserved**:
 - You may **not** redistribute, modify, or sell the source code or compiled JAR.  
 - You may freely run the plugin on personal or commercial servers.  
 
-See the [LICENSE](LICENSE) file for full terms.
+See the [LICENSE](LICENSE.md) file for full terms.
