@@ -2,7 +2,7 @@
   <img src="doc/soullockv2.png" alt="SoulLock Logo" width="200"/>
 </p>
 
-<h1 align="center">🪄 SoulLock v1.2.1</h1>
+<h1 align="center">🪄 SoulLock</h1>
 
 <p align="center">
   A Paper plugin that binds tools & weapons to a player so only the rightful owner can use them.
@@ -35,6 +35,7 @@
 | `/soullock reload`       | ♻️ Reload plugin config without restart      | `soullock.reload`      |
 
 *(No permissions are granted by default. Assign them using a permissions plugin like [LuckPerms](https://luckperms.net/).)*
+*Note: OPs and Console can always use all commands automatically.*
 
 ---
 
