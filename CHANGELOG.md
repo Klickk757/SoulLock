@@ -5,6 +5,17 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) and vers
 
 ---
 
+## [1.2.2] — 2025-09-09
+### Changed
+- **OP/Console global allowance**: Server operators and console can use all `/soullock` commands without explicit permission nodes.
+- Dynamic help/tab-complete now respects OP/Console auto-allow.
+
+### Notes
+- No config changes required.
+- `plugin.yml` version bumped to `1.2.2`.
+
+---
+
 ## [1.2.1] — 2025-09-08
 ### Changed
 - `/soullock help` is now **dynamic**:
